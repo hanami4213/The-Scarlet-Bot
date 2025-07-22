@@ -15,3 +15,34 @@ Made with ❤️ by Scarlet Empire.
 
 ## 📁 Folder Structure
 
+```
+📂 blaze-blossom/
+ ┣ 📂 commands/
+ ┃ ┣ gali.js
+ ┃ ┣ respect.js
+ ┃ ┣ video.js
+ ┃ ┗ tagkick.js
+ ┣ 📜 config.json
+ ┣ 📜 index.js
+ ┣ 📜 README.md
+ ┗ 📜 package.json
+```
+
+---
+
+## 🚀 Installation (Termux)
+
+```bash
+pkg update && pkg upgrade
+pkg install git nodejs
+git clone https://github.com/hanami4213/The-Scarlet-Bot
+cd The-Scarlet-Bot
+npm install
+npm start
+```
+
+---
+
+## 🧠 Credits
+- 🐐 Base: [GoatBot V2](https://github.com/ntkhang03/Goat-Bot-V2)
+- 🌸 Customized by: **Scarlet Empire Team**
